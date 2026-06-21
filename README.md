@@ -11,6 +11,7 @@ A simulated multi-site enterprise network built in Cisco Packet Tracer, demonstr
 - Validate network functionality through troubleshooting scenarios
 
 ## Network Topology
+![Network Topology](Topology/network-topology.png)
 - **HQ Site:** 3 departments (IT, HR, Operations) connected via a Layer 2 switch with VLAN segmentation
 - **Branch Site:** Branch Operations department connected via a dedicated router and switch
 - **WAN Link:** Point-to-point connection between HQ-Router and Branch-Router (10.0.0.0/30)
