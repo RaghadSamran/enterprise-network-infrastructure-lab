@@ -68,7 +68,6 @@ A simulated multi-site enterprise network built in Cisco Packet Tracer, demonstr
 
 ## Tools Used
 - Cisco Packet Tracer 9.0
-- Draw.io (topology diagram)
 - GitHub (documentation)
 
 ## Repository Structure
